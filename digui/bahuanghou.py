@@ -93,4 +93,4 @@ def go(n):
     print("Total : %s" % count)
 
 
-go(11)
+go(8)
